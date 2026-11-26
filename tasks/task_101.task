@@ -1,0 +1,5 @@
+id: task_101
+agent: analyst
+input: data/input.txt
+output: data/analysis.txt
+priority: 1

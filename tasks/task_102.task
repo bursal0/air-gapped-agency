@@ -1,0 +1,5 @@
+id: task_102
+agent: reporter
+input: reports/task_101.report
+output: data/briefing.txt
+priority: 1
